@@ -5,7 +5,8 @@ essential to explore alternative methods of energy production. The
 "Advanced Foot Step Power Generator" aims to convert mechanical 
 pressure exerted by human footsteps into usable electrical energy. It is 
 an innovative and sustainable approach towards green energy. 
-1.2 Problem Statement 
+
+ Problem Statement 
    Day by day, the population of the country increases and the 
 requirement of the power is  increases. At the same time, the wastage 
 of energy also 6 increases in many   ways. so reforming this energy 
@@ -14,7 +15,9 @@ and the use of gadgets, electronic devices also increased. Power
 generation using conservative methods becoming deficient. There is a 
 need arises for a different power generation method. At the same time, 
 the energy is wasted due to human locomotion. 
-1.2 Objectives 
+
+
+Objectives 
 To overcome this problem, the energy wastage is converted to usable 
 form using the piezoelectric sensor. This sensor converts the pressure 
 on it to a voltage. By using this energy saving method, foot step power 
@@ -25,8 +28,7 @@ to an electrical charge.
   
  
  
-9  
-1.3 Scope of the Project 
+Scope of the Project 
 1- In gymnasiums where people can exercise and create some power.  
 2- In dancing clubs where people can dance an 
 generate power. 
